@@ -18,7 +18,7 @@ INSTALACION
 ```
 $ git clone https://github.com/Yenot-Hack/fishtool.git
 ```
-- Nos dirigimos a la capeta llamada fishtool
+- Nos dirigimos a la capeta llamada fishtool-hack
 - y damos permiso de ejecucion
 ```
 
