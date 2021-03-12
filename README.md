@@ -8,6 +8,7 @@
 <p align="center">
 INSTALL
 </p>
+
 ```
 $ git clone git://github.com/Yenot-Hack/fishtool.git
 ```
