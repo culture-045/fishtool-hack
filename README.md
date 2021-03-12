@@ -22,7 +22,7 @@ $ git clone https://github.com/Yenot-Hack/fishtool.git
 - y damos permiso de ejecucion
 ```
 
-$ cd fishtool
+$ cd fishtool-hack
 
 $ chmod +x fishtool.sh
 ```
