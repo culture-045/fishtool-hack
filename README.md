@@ -10,5 +10,5 @@ INSTALL
 </p>
 
 ```
-$ git clone git://github.com/Yenot-Hack/fishtool.git
+$ git clone e https://github.com/Yenot-Hack/fishtool.git
 ```
